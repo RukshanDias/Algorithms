@@ -2,6 +2,9 @@
 
 ## Concepts
 - #### Brute force
+    - Brute Force is a way to find the correct solutions by checking all the possible solutions.
+    - Ideal for solving small, simpler problems.
+    - But for large problems, this can be inefficient & slow. 
 - #### Divide & Conquer
 - #### Dynamic Programming
 - #### Backtracking
