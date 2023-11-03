@@ -3,6 +3,7 @@
 ## Concepts
 
 -   #### Brute force
+
     -   Brute Force is a way to find the correct solutions by checking all the possible solutions.
     -   Ideal for solving small, simpler problems.
     -   But for large problems, this can be inefficient & slow.
@@ -30,7 +31,14 @@
         -   Strassen’s Algorithm
         -   binary search
 
--   #### Dynamic Programming
+-   #### Dynamic Programming [(View)](https://github.com/RukshanDias/Dynamic-Programming)
+
+    -   A programming technique where an algorithmic problem is first broken down into sub-problems, & sub-problems are use to find the optimal solution.
+
+    -   Memoization - store duplicate sub problems, so it can be reused when it occurs again.
+
+    -   Applications: Fibonacci series
+
 -   #### Backtracking
 
 ## 1. Two Pointers
