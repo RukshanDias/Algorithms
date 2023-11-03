@@ -58,9 +58,18 @@
 
 ## 1. Two Pointers
 
-## 2. K-Way merge
+-   This technique is used for searching pairs in a sorted array.
+-   Behavior of algorithm:
+    -   Q: find any numbers that sum is 50.
+    1. set two pointers, one on the 0th index & one on the last index.
+    2. Get the sum of 2 nums which're in pointers.
+    3. if sum>50 ? reduce right/high pointer from 1 index : else, increase left/low pointer from 1 index.
+    4. again check sum & continue.
+-   ![two pointers](imgs/two%20pointers.png)
 
-## 3. Sliding Window
+## 2. Sliding Window
+
+## 3. K-Way merge
 
 ## 4. Greedy algorithms
 
