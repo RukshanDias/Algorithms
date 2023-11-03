@@ -67,7 +67,17 @@
     4. again check sum & continue.
 -   ![two pointers](imgs/two%20pointers.png)
 
-## 2. Sliding Window
+## 2. Sliding Window [(view)](https://www.youtube.com/shorts/3V8YcmxtRLQ)
+
+-   Q: from the given array which of 4 length has the highest sum.
+    -   here instead of calculating the values if index [0 1 2 3], [1 2 3 4], [2 3 4 5], ...
+    -   we can **reduce** the removing value & **add** the new value.
+    -   This can be very efficient when the window length gets larger.
+-   ![Sliding Window](imgs/sliding%20window.png)
+-   Where to use Sliding Window:
+    -   Array, sub-array
+    -   String, sub-string
+    -   maximum sum, minimum sum
 
 ## 3. K-Way merge
 
