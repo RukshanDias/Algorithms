@@ -40,6 +40,21 @@
     -   Applications: Fibonacci series
 
 -   #### Backtracking
+    -   Backtracking is an algorithm that use **brute force** approach to find the desired output.
+    -   If the current solution is not suitable, then backtrack and try other solutions. This involves **Recursion**.
+    -   Backtracking vs Dynamic Programming:
+        -   Use BT if the problem have multiple solutions.
+        -   If there's an optimal solution go for DP.
+            ![Backtracking](imgs/backtracking.png)
+    -   Types of Backtracking:
+        -   Decision problem: search for a feasible solution.
+        -   Optimization problem: search for the best solution.
+        -   Enumeration problem: find all feasible solutions.
+    -   Applications:
+        -   n-queen problem
+        -   The Knight's tour problem.
+
+---
 
 ## 1. Two Pointers
 
