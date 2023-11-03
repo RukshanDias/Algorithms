@@ -6,7 +6,7 @@
     -   Brute Force is a way to find the correct solutions by checking all the possible solutions.
     -   Ideal for solving small, simpler problems.
     -   But for large problems, this can be inefficient & slow.
-    
+
 -   #### Divide & Conquer [(view)](https://www.youtube.com/watch?v=YOh6hBtX5l0)
 
     -   This concept can divide into 3 parts,
@@ -39,7 +39,7 @@
 
 ## 3. Sliding Window
 
-## 4. Greedy
+## 4. Greedy algorithms
 
 ## 5. Sorting algorithms
 
@@ -59,3 +59,5 @@
     - Bellman-Ford Algorithm
     - Prim’s algorithm
     - Kruskal’s algorithm
+
+## 7. Shortest-path algorithms
