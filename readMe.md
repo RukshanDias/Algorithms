@@ -94,9 +94,7 @@
         - Continue & get the final sorted array.
     4. Combine the reset of arrays 2 by 2 & get the final sorted array.
 
-## 4. Greedy algorithms
-
-## 5. Sorting algorithms
+## 4. Sorting algorithms
 
 -   Top 5 main algos:
     1. Selection sort
@@ -105,14 +103,22 @@
     4. Merge sort
     5. Quick sort
 
-## 6. Graph algorithms
+## 5. Graph algorithms
 
-    - BFS
-    - DFS
-    - Dijkstra algorithm
-    - Floyd Warshall Algorithm
-    - Bellman-Ford Algorithm
-    - Prim’s algorithm
-    - Kruskal’s algorithm
+#### 1. BFS
 
-## 7. Shortest-path algorithms
+#### 2. DFS
+
+#### 3. Dijkstra algorithm
+
+#### 4. Floyd Warshall Algorithm
+
+#### 5. Bellman-Ford Algorithm
+
+#### 6. Prim’s algorithm
+
+#### 7. Kruskal’s algorithm
+
+## 6. Shortest-path algorithms
+
+## 7. Greedy algorithms
