@@ -79,7 +79,20 @@
     -   String, sub-string
     -   maximum sum, minimum sum
 
-## 3. K-Way merge
+## 3. K-Way merge [(view)](https://www.youtube.com/watch?v=vO961e332A4)
+
+-   Falls under merge algos.
+-   Used to merge multiple sorted arrays into one sorted array.
+-   This algo will use the concept of divide & conquer.
+-   Behavior of algorithm:
+    1. Get the main array that contains K number of arrays.
+    2. Divide the array into individual arrays.
+    3. Couple 2 arrays and start comparing.
+        - a pointer on 0th index of each 2 arrays.
+        - Compare which val is smaller, & select it.
+        - increase the index of selected array.
+        - Continue & get the final sorted array.
+    4. Combine the reset of arrays 2 by 2 & get the final sorted array.
 
 ## 4. Greedy algorithms
 
