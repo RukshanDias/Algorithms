@@ -120,7 +120,15 @@
     -   determine shortest path.
     -   Minimum spanning tree.
 
-#### 2. DFS
+#### 2. DFS [(view)](https://www.youtube.com/watch?v=Urx87-NMm6c)
+
+-   Depth-First Search is also a Traversing algo.
+-   Depth = **vertical** before horizontal, will travel branch by branch.
+-   A stack is used to keep track of visited nodes.
+-   Application:
+    -   Finding paths between 2 nodes.
+    -   detecting cycle in graph.
+    -   topological sorting
 
 #### 3. Dijkstra algorithm
 
