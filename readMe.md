@@ -94,12 +94,13 @@
         - Continue & get the final sorted array.
     4. Combine the reset of arrays 2 by 2 & get the final sorted array.
 
-## 4. Sorting algorithms
+## 4. Sorting algorithms [(view)](https://www.geeksforgeeks.org/sorting-algorithms/)
 
--   Top 5 main algos:
-    1. Selection sort
+-   A method to reorganizing number of items into a specific order.
+-   Top 5 sorting algos:
+    1. Bubble sort
     2. Insertion sort
-    3. Bubble sort
+    3. Selection sort
     4. Merge sort
     5. Quick sort
 
