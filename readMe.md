@@ -108,10 +108,17 @@
 
 -   [view article](https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3)
 -   **What's a Graph?**
-    - A graph consists of a set of vertices/nodes and a set of edges connecting these vertices.
-    - ![Graphs](imgs/graphs.png)
+    -   A graph consists of a set of vertices/nodes and a set of edges connecting these vertices.
+    -   ![Graphs](imgs/graphs.png)
 
-#### 1. BFS
+#### 1. BFS [(view)](https://www.youtube.com/watch?v=HZ5YTanv5QE)
+
+-   Breadth-First Search is a Traversing algo.
+-   Since breath = broad/wide, this algo will process **horizontally**, level by level.
+-   A queue is used to keep track of visited nodes.
+-   Application:
+    -   determine shortest path.
+    -   Minimum spanning tree.
 
 #### 2. DFS
 
