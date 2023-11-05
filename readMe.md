@@ -106,6 +106,11 @@
 
 ## 5. Graph algorithms
 
+-   [view article](https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3)
+-   **What's a Graph?**
+    - A graph consists of a set of vertices/nodes and a set of edges connecting these vertices.
+    - ![Graphs](imgs/graphs.png)
+
 #### 1. BFS
 
 #### 2. DFS
