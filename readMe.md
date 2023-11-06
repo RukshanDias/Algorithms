@@ -144,6 +144,7 @@
 ##### What is Minimum Spanning tree?
 
 -   A spanning tree with min cost in a weighted graph.
+-   **Example**: Cable company laying line to multiple neighbors with minimum cable length.
 -   in below STs the Minimum ST will be the graph with total weight of 30.
     -   cause 30< 40< 50
     -   ![Minimum Spanning Tree](imgs/Minimum-spanning-tree.png)
@@ -152,15 +153,13 @@
 
 1.  **Prim's algo**
 
-
     -   [Prim's algorithm in 2 minutes - YouTube](https://www.youtube.com/watch?v=cplfcGZmX7I)
     -   Steps:
         -   start with a root node.
         -   and follows the smallest weighted edge, which has not connected to a node that’ve visited .
         -   Finally the MST.
 
-2.  Kruskal’s algo
-
+2.  **Kruskal’s algo**
 
     -   [Kruskal's algorithm in 2 minutes - YouTube](https://www.youtube.com/watch?v=71UQH7Pr9kU)
     -   Steps:
