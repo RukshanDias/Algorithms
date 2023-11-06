@@ -141,6 +141,13 @@
 -   A connected & undirected graph has at least 1 ST.
 -   A complete(every node is connected w/ every other nodes) undirected graph has N(n-2) no of ST.
 
+##### What is Minimum Spanning tree?
+
+-   A spanning tree with min cost in a weighted graph.
+-   in below STs the Minimum ST will be the graph with total weight of 30.
+    -   cause 30< 40< 50
+    -   ![Minimum Spanning Tree](imgs/Minimum-spanning-tree.png)
+
 
 ## 6. Shortest-path algorithms
 
