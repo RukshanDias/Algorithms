@@ -130,7 +130,7 @@
     -   detecting cycle in graph.
     -   topological sorting
 
-#### 6. Minimum spanning tree
+#### 3. Minimum spanning tree
 
 ##### What is Spanning tree?
 
@@ -150,7 +150,7 @@
 
 ##### Popular MST algorithms?
 
-1.  **Prims algo**
+1.  **Prim's algo**
 
 
     -   [Prim's algorithm in 2 minutes - YouTube](https://www.youtube.com/watch?v=cplfcGZmX7I)
