@@ -148,6 +148,32 @@
     -   cause 30< 40< 50
     -   ![Minimum Spanning Tree](imgs/Minimum-spanning-tree.png)
 
+##### Popular MST algorithms?
+
+1.  **Prims algo**
+
+
+    -   [Prim's algorithm in 2 minutes - YouTube](https://www.youtube.com/watch?v=cplfcGZmX7I)
+    -   Steps:
+        -   start with a root node.
+        -   and follows the smallest weighted edge, which has not connected to a node that’ve visited .
+        -   Finally the MST.
+
+2.  Kruskal’s algo
+
+
+    -   [Kruskal's algorithm in 2 minutes - YouTube](https://www.youtube.com/watch?v=71UQH7Pr9kU)
+    -   Steps:
+        -   Sort the graph edges based on weight.
+        -   find the smallest weighted edge, & highlight the edge with connected 2 nodes.
+        -   find the next smallest edge, which has not connected to a node that’ve visited before.
+        -   finally the MST.
+
+-   Prims vs Kruskal’s
+    -   lots of edges ⇒ Prims is faster
+    -   Both are greedy algo.
+    -   Prims → having a tree that continually add to until it becomes a MST.
+    -   Kruskal’s → Having a disconnected graph until a tree is formed.
 
 ## 6. Shortest-path algorithms
 
