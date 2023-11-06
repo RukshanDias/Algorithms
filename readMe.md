@@ -130,16 +130,24 @@
     -   detecting cycle in graph.
     -   topological sorting
 
-#### 3. Dijkstra algorithm
+#### 6. Minimum spanning tree
 
-#### 4. Floyd Warshall Algorithm
+##### What is Spanning tree?
 
-#### 5. Bellman-Ford Algorithm
+-   A graph which stays connected with minimum no of edges. (cover all vertices with minimum no of edges)
+-   Spanning tree is a subset of graph. It’s minimally connected, removing 1 edge will disconnect graph.
+-   ST can not be disconnected
+-   if original graph no of vertices = V then no of edges of ST = V-1
+-   A connected & undirected graph has at least 1 ST.
+-   A complete(every node is connected w/ every other nodes) undirected graph has N(n-2) no of ST.
 
-#### 6. Prim’s algorithm
-
-#### 7. Kruskal’s algorithm
 
 ## 6. Shortest-path algorithms
+
+#### 1. Dijkstra algorithm
+
+#### 2. Floyd Warshall Algorithm
+
+#### 3. Bellman-Ford Algorithm
 
 ## 7. Greedy algorithms
