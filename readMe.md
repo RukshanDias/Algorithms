@@ -186,12 +186,20 @@
         -   between every pair of nodes.
         -   Floyd Warshall Algorithm, Johnson's Algorithm
 
-#### 1. Dijkstra algorithm
+#### 1. Dijkstra algorithm [(view)](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 
-#### 2. Bellman-Ford Algorithm
+-   Shortest-path from 1 : all, negative edges not allowed.
 
-#### 3. Floyd Warshall Algorithm
+#### 2. Bellman-Ford algorithm
 
-#### 4. A\* Algorithm
+-   Shortest-path from 1 : all, negative edges allowed.
+
+#### 3. Floyd Warshall algorithm
+
+-   Shortest-path from all : all, negative edges allowed.
+
+#### 4. A\* algorithm
+
+-   Best on average
 
 ## 7. Greedy algorithms
