@@ -174,12 +174,24 @@
     -   Prims → having a tree that continually add to until it becomes a MST.
     -   Kruskal’s → Having a disconnected graph until a tree is formed.
 
-## 6. Shortest-path algorithms
+## 6. Shortest-path/Path-finding algorithms
+
+-   These algorithms are used to find the shortest path between 2 points.
+-   [A Comparison of Pathfinding Algorithms - YouTube](https://www.youtube.com/watch?v=GC-nBgi9r0U)
+-   There are 2 types of Shortest path algos:
+    -   **Single-source**:
+        -   from a given node to all other
+        -   Dijkstra algorithm, Bellman-Ford Algorithm
+    -   **All-pairs**:
+        -   between every pair of nodes.
+        -   Floyd Warshall Algorithm, Johnson's Algorithm
 
 #### 1. Dijkstra algorithm
 
-#### 2. Floyd Warshall Algorithm
+#### 2. Bellman-Ford Algorithm
 
-#### 3. Bellman-Ford Algorithm
+#### 3. Floyd Warshall Algorithm
+
+#### 4. A\* Algorithm
 
 ## 7. Greedy algorithms
