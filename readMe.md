@@ -189,17 +189,23 @@
 #### 1. Dijkstra algorithm [(view)](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 
 -   Shortest-path from 1 : all, negative edges not allowed.
+-   is a Greedy algo.
+-   Steps: ![Dijkstra algo steps](https://raw.githubusercontent.com/kdn251/interviews/master/images/dijkstra.gif)
 
 #### 2. Bellman-Ford algorithm
 
 -   Shortest-path from 1 : all, negative edges allowed.
+-   Steps: https://youtu.be/obWXjtg0L64?t=32
 
 #### 3. Floyd Warshall algorithm
 
 -   Shortest-path from all : all, negative edges allowed.
+-   Can be used to find the shortest path between every node.
+-   ![Floyd Warshall Algorithm](imgs/Floyd%20Warshall%20Algorithm.png)
 
 #### 4. A\* algorithm
 
 -   Best on average
+-   Use concept of ‘Potential reweighing’
 
 ## 7. Greedy algorithms
