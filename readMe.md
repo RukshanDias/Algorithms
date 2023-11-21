@@ -209,3 +209,16 @@
 -   Use concept of ‘Potential reweighing’
 
 ## 7. Greedy algorithms
+
+-   Greedy algos are quick decision makers. Solves problems fast.
+-   Grabs the "best" choice right away without reconsidering.
+-   Example algos:
+    -   Dijkstra's algo
+    -   Kruskal's algo
+    -   Fractional Knapsack
+-   Advantages:
+    -   easy to understand.
+    -   Much faster
+-   Disadvantages
+    -   Might miss the perfect answer.
+    -   forced on immediate wins.
